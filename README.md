@@ -4,15 +4,15 @@ Una aplicación de lista de tareas completa (Full-Stack) construida con **React*
 
 ---
 
-## 📋 Tabla de Contenidos
+## Tabla de Contenidos
 
 * [Acerca del Proyecto](#acerca-del-proyecto)
 * [Características](#características)
 * [Tecnologías Utilizadas](#tecnologías-utilizadas)
 * [Instalación y Ejecución Local](#instalación-y-ejecución-local)
-    * [Requisitos Previos](#requisitos-previos)
-    * [Configuración del Backend](#configuración-del-backend)
-    * [Configuración del Frontend](#configuración-del-frontend)
+  * [Requisitos Previos](#requisitos-previos)
+  * [Configuración del Backend](#configuración-del-backend)
+  * [Configuración del Frontend](#configuración-del-frontend)
 * [Screenshots](#screenshots)
 * [Uso](#uso)
 * [Contribuir](#contribuir)
@@ -20,13 +20,13 @@ Una aplicación de lista de tareas completa (Full-Stack) construida con **React*
 
 ---
 
-## 💡 Acerca del Proyecto
+## Acerca del Proyecto
 
 ForIT Todo App es una solución intuitiva para gestionar tus tareas diarias. Permite a los usuarios crear, leer, actualizar y eliminar tareas (CRUD), ofreciendo una experiencia fluida y reactiva gracias a React. **Actualmente, la aplicación no tiene una base de datos persistente conectada, lo que significa que las tareas se gestionan en memoria y se resetearán cada vez que el servidor de backend se reinicie.**
 
 ---
 
-## ✨ Características
+## Características
 
 * **Creación de Tareas:** Agrega nuevas tareas con facilidad.
 * **Visualización de Tareas:** Lista clara y organizada de todas tus tareas.
@@ -35,7 +35,7 @@ ForIT Todo App es una solución intuitiva para gestionar tus tareas diarias. Per
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 **Frontend:**
 * **React:** Biblioteca de JavaScript para construir interfaces de usuario.
@@ -49,7 +49,7 @@ ForIT Todo App es una solución intuitiva para gestionar tus tareas diarias. Per
 
 ---
 
-## 💻 Instalación y Ejecución Local
+## Instalación y Ejecución Local
 
 Sigue estos pasos para levantar la aplicación en tu entorno local.
 
@@ -64,7 +64,7 @@ Asegúrate de tener instalado lo siguiente:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/MaxiScarpatti/forit-todo-app.git](https://github.com/MaxiScarpatti/forit-todo-app.git)
+    git clone https://github.com/MaxiScarpatti/forit-todo-app.git
     cd forit-todo-app
     ```
 
@@ -127,19 +127,17 @@ Asegúrate de tener instalado lo siguiente:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Aquí puedes ver la aplicación en funcionamiento:
 
 ![Screenshot de la página principal de la aplicación con tareas.](frontend/src/assets/img1.jpeg)
-*Descripción: Vista principal de la aplicación, mostrando la lista de tareas.*
 
 ![Screenshot de la ventana modal para añadir una nueva tarea.](frontend/src/assets/img2.jpeg)
-*Descripción: Ejemplo de cómo se ve el formulario para añadir una nueva tarea.*
 
 ---
 
-## 🚀 Uso
+## Uso
 
 Una vez que la aplicación esté corriendo localmente:
 
@@ -150,7 +148,7 @@ Una vez que la aplicación esté corriendo localmente:
 
 ---
 
-## 🤝 Contribuir
+## Contribuir
 
 ¡Las contribuciones son bienvenidas! Si quieres mejorar este proyecto, por favor sigue estos pasos:
 
@@ -162,7 +160,7 @@ Una vez que la aplicación esté corriendo localmente:
 
 ---
 
-## 📧 Contacto
+## Contacto
 
 Maxi Scarpatti - [maxi.scarpatti@gmail.com]
 
