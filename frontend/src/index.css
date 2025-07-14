@@ -23,11 +23,9 @@ a:hover {
 }
 
 body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+ background-color: #f8f9fa; /* fondo claro */
+  color: #212529; /* texto oscuro */
+  font-family: Arial, sans-serif;
 }
 
 h1 {
