@@ -131,10 +131,10 @@ Asegúrate de tener instalado lo siguiente:
 
 Aquí puedes ver la aplicación en funcionamiento:
 
-![Screenshot de la página principal de la aplicación con tareas.](assets/screenshots/todo-list-main.png)
+![Screenshot de la página principal de la aplicación con tareas.](frontend/src/assets/img1.jpeg)
 *Descripción: Vista principal de la aplicación, mostrando la lista de tareas.*
 
-![Screenshot de la ventana modal para añadir una nueva tarea.](assets/screenshots/add-task-modal.png)
+![Screenshot de la ventana modal para añadir una nueva tarea.](frontend/src/assets/img2.jpeg)
 *Descripción: Ejemplo de cómo se ve el formulario para añadir una nueva tarea.*
 
 ---
